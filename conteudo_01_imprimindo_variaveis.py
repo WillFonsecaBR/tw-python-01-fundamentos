@@ -17,7 +17,3 @@ sobrenome1 = input("Digite o seu sobre nome: ")
 idade1 = int(input('Digite a sua idade: '))
 
 print(f"Olá, o meu nome é {nome1} {sobrenome1} e eu tenho {idade1} anos.")
-
-
-
-
